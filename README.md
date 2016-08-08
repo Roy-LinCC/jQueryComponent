@@ -12,6 +12,9 @@
  - Distpicker [详情](https://fengyuanchen.github.io/distpicker/)
  - icheck [详情](https://github.com/fronteed/iCheck)
  - searchable-option-list [详情](http://pbauerochse.github.io/searchable-option-list/)
+ - bootstrap-switch [详情](http://www.bootcss.com/p/bootstrap-switch/)
+ - bootstrap-select [详情](http://silviomoreto.github.io/bootstrap-select/)
+ - jquery-labelauty [演示](http://labelauty.js.org/) [详情](https://github.com/fntneves/jquery-labelauty)
 
 `注：`
 `Email:jinshouw@163.com`

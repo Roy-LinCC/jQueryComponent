@@ -12,3 +12,9 @@
  - Distpicker [详情](https://fengyuanchen.github.io/distpicker/)
  - icheck [详情](https://github.com/fronteed/iCheck)
  - searchable-option-list [详情](http://pbauerochse.github.io/searchable-option-list/)
+
+`注：`
+`Email:jinshouw@163.com`
+`如果你有好的组件，也可以给我提交request，或者给我发Email，THX！`
+`请勿用作商业项目`
+
